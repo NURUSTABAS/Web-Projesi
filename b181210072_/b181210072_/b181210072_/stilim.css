@@ -1,0 +1,50 @@
+body{
+	background-color:#D3D3D3;
+	
+}
+#sol{
+	background-color:#383838;
+	
+	
+}
+.mirasımız h1{
+	text-align:center;
+	color:#778899
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color:  #ff6666;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#uyelik_formu
+{
+    padding: 100px;
+    width: 900px;
+} 
+
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 10px;
+  width:500px;
+}
+
+footer{
+	background-color:#383838;
+}
+
